@@ -7,3 +7,7 @@ C'est tout pour l'apprentissage du markdown, j'ai ajoute 5 headers avec des mess
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```python
+print('Hello World')
+```
+
