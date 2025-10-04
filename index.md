@@ -10,4 +10,7 @@ C'est tout pour l'apprentissage du markdown, j'ai ajoute 5 headers avec des mess
 ```python
 print('Hello World')
 ```
+- [x] Me connecter a ma page github
+- [x] Executer les etapes manquantes ou laissees sur le cote
+- [ ] Finir le processus pour le cours de Markdown
 
